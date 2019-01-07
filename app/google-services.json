@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "681563274431",
+    "firebase_url": "https://phone2-ae7b5.firebaseio.com",
+    "project_id": "phone2-ae7b5",
+    "storage_bucket": "phone2-ae7b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681563274431:android:9766fff99e5be2a3",
+        "android_client_info": {
+          "package_name": "com.example.aunshon.phone2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681563274431-u6k8kmvglmbar7dl6g8nsi3infso903f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADAEfSxhzQCNxysARgfKeUeEN3m9ErXb0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
